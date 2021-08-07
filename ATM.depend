@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609668175 source:c:\users\ishan\documents\codeblocks\atm\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<winver.h>
+	<iomanip>
+	<stdlib.h>
+
+1607596348 source:c:\users\ishan\documents\codeblocks\atm\resources.rc
+
